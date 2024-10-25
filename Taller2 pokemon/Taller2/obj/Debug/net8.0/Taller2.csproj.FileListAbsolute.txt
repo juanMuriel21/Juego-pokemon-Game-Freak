@@ -1,0 +1,14 @@
+C:\Users\jmuriel\Desktop\Taller2 pokemon\Taller2\obj\Debug\net8.0\Taller2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmuriel\Desktop\Taller2 pokemon\Taller2\obj\Debug\net8.0\Taller2.AssemblyInfoInputs.cache
+C:\Users\jmuriel\Desktop\Taller2 pokemon\Taller2\obj\Debug\net8.0\Taller2.AssemblyInfo.cs
+C:\Users\jmuriel\Desktop\Taller2 pokemon\Taller2\obj\Debug\net8.0\Taller2.csproj.CoreCompileInputs.cache
+C:\Users\jmuriel\Desktop\Taller2 pokemon\Taller2\bin\Debug\net8.0\Taller2.exe
+C:\Users\jmuriel\Desktop\Taller2 pokemon\Taller2\bin\Debug\net8.0\Taller2.deps.json
+C:\Users\jmuriel\Desktop\Taller2 pokemon\Taller2\bin\Debug\net8.0\Taller2.runtimeconfig.json
+C:\Users\jmuriel\Desktop\Taller2 pokemon\Taller2\bin\Debug\net8.0\Taller2.dll
+C:\Users\jmuriel\Desktop\Taller2 pokemon\Taller2\bin\Debug\net8.0\Taller2.pdb
+C:\Users\jmuriel\Desktop\Taller2 pokemon\Taller2\obj\Debug\net8.0\Taller2.dll
+C:\Users\jmuriel\Desktop\Taller2 pokemon\Taller2\obj\Debug\net8.0\refint\Taller2.dll
+C:\Users\jmuriel\Desktop\Taller2 pokemon\Taller2\obj\Debug\net8.0\Taller2.pdb
+C:\Users\jmuriel\Desktop\Taller2 pokemon\Taller2\obj\Debug\net8.0\Taller2.genruntimeconfig.cache
+C:\Users\jmuriel\Desktop\Taller2 pokemon\Taller2\obj\Debug\net8.0\ref\Taller2.dll
